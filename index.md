@@ -15,3 +15,5 @@ EAF is only a GUI, so any device that has ADB or fastboot commands is supported.
 - flash zips using PC  
 
 All of these operations above can be done with mouses without typing commands!
+
+[Click me](https://ryantsui1109.github.io/eaf_web_en/docs) to read the documents
