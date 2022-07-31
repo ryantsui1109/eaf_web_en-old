@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Easy ADB and fastboot (EAF)
 description: a GUI tool for easier using ADB and fastboot
-show_downloads: 
+github: 
   zip_url: https://github.com/ryantsui1109/Easy_ADB_fastboot/releases/latest/download/Easy.ADB.and.fastboot-win.zip
   tar_url: https://github.com/ryantsui1109/Easy_ADB_fastboot/releases/latest/download/easy_adb_fastboot-linux.tar.gz
   repository_url: https://github.com/ryantsui1109/Easy_ADB_fastboot
