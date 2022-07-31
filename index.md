@@ -1,3 +1,4 @@
+中文版請點[這裡](https://ryantsui1109.github.io/eaf_web_zh)   
 ## What is EAF?
 EAF is a GUI tool of ADB (Android Debug Bridge) and fastboot based on Electron.
 
