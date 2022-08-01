@@ -1,9 +1,9 @@
 # Maybe this is the most the complete user guide of EAF
-[Flashing and Erasing](/flash)
+[Flashing and Erasing](/docs/flash)
 
-[Flashing Zips & OTA Updates](/flash#flashzip)
+[Flashing Zips & OTA Updates](/docs/flash#flashzip)
 
-[Install Magisk (Rooting)](/magisk)
+[Install Magisk (Rooting)](/docs/magisk)
 
 About A/B Slot
 
