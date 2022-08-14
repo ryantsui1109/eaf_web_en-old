@@ -7,9 +7,9 @@
 3. Copy the Patched img to your PC
 4. Flash it into the boot partiton
 
-## Method 2
-1. Download Magisk APK
-2. Put your device into recovery or sideload mode (third-party recovery only)
+## Method 2 (third-party recovery only)
+1. Download Magisk APK to PC
+2. Put your device into recovery or sideload mode 
 3. Switch to Recovery page, use "Sideload flashable zip" but select the downloaded magisk.apk
 
 ## Method 3 (for Samsung devices running official OS)

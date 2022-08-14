@@ -7,4 +7,8 @@
 
 About A/B Slot
 
-Locking/Unlocking Bootloader
+Multiple Devices Supporting
+
+Variables Stored in Fastboot
+
+[Locking/Unlocking the Bootloader](./bl)
