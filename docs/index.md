@@ -9,6 +9,6 @@ About A/B Slot
 
 Multiple Devices Supporting
 
-Variables Stored in Fastboot
+[Get Variables Stored in Fastboot (Fastboot Getvar)](./fastboot_getvar)
 
 [Locking/Unlocking the Bootloader](./bl)
